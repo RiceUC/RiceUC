@@ -41,9 +41,8 @@ I love bridging **design and development** ~ turning Figma concepts into smooth,
 
 ### 🌷 Socials
 <p align="left">
-  <a href="https://www.youtube.com" target="_blank"><img src="https://img.shields.io/badge/YouTube-ffb6c1?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://www.instagram.com" target="_blank"><img src="https://img.shields.io/badge/Instagram-fcc4c4?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-bcd4e6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/clahrin" target="_blank"><img src="https://img.shields.io/badge/Instagram-fcc4c4?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="http://linkedin.com/clahrin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-bcd4e6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
