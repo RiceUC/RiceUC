@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 
 ### 🍓 About Me
 Currently working on **my university degree** 💻  
-I love bridging **design and development** ~ turning Figma concepts into smooth, functional websites 🌷  
 
 ---
 
