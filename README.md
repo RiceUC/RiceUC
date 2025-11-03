@@ -27,7 +27,9 @@ Here are some ideas to get you started:
 ---
 
 ### 🍓 About Me
-Currently working on **my university degree** 💻  
+~ Currently working on **my university degree** 💻  
+~ As for interests, I currently enjoy learning about AI/ML & Android Mobile Development 
+~ Outside of design & code, I love drinking matcha, singing & playing the piano ☕🎧.
 
 ---
 
