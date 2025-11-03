@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <!-- HEADER GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2pudnZyMzQwYmdxdTZjdjN0YWZ5ZWg5NTF1NWN2NXA0aWlkcGJrMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/c6W8m3rFtRr0U/giphy.gif" width="280" alt="pastel pink coding aesthetic">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTJodjdxYXdic2VhdGN4OXByMGxscG41d3E3dXVyZ3djNGVuOXc3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.gif" width="280" alt="pastel pink coding aesthetic">
 </p>
 
 <h1 align="center">🌸 Hi there, I’m Rice 🌸</h1>
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ### 🍓 About Me
 Currently working on **my university degree** 💻  
-I love bridging **design and development** — turning Figma concepts into smooth, functional websites 🌷  
+I love bridging **design and development** ~ turning Figma concepts into smooth, functional websites 🌷  
 
 ---
 
