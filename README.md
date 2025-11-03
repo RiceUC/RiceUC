@@ -57,5 +57,5 @@ I love bridging **design and development** ~ turning Figma concepts into smooth,
 ---
 
 <p align="center">
-  <em>🌸</em>
+  🌸
 </p>
